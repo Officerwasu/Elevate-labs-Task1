@@ -10,7 +10,7 @@ The objective of this task was to learn to discover open ports on devices in my 
 ## Steps Performed
 
 1.  **Tool Installation:**
-    * ![Nmap install](image-url)
+    * ![image](https://github.com/user-attachments/assets/53a225e1-4682-407f-a6cc-27331aca030d)
       Confirmed Nmap was already installed on Kali Linux.
 
 
