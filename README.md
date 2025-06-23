@@ -48,6 +48,7 @@ The objective of this task was to learn to discover open ports on devices in my 
         * **Potential Risk:** An open SSH port is a common target for brute-force attacks. Strong passwords, key-based authentication, and limiting access are crucial for securing SSH.
 
 ## Scan Results Summary
+![image](https://github.com/user-attachments/assets/67922c9d-5e54-48df-8aff-1fd64ade049d)
 
 
 * The gateway device (`10.0.0.2`) has Port 53 (DNS) open.
